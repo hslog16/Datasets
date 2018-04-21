@@ -3,7 +3,7 @@ import tensorflow as tf
 import numpy as np
 from plot import Plotter
 from nltk.corpus import gutenberg
-from basic_lstm.model import NlpGan
+from basiclstm.model import NlpGan
 import utils
 
 SAVE_NAME = 'GAN_10_NORMING'
